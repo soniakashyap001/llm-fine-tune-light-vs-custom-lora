@@ -149,3 +149,6 @@ You can adapt these notebooks for:
 - Domain-specific Q&A like **medical or legal advice**
 - Personalized assistants for **students, HR, or finance**
 - Instruction-tuned bots for **internal enterprise tools**
+
+📚 Acknowledgment
+This project was inspired by the fine-tuning tutorial available on YouTube. The notebooks have been adapted, customized, and documented to suit personal learning goals and to demonstrate both beginner and advanced approaches to LLM fine-tuning using LoRA.
